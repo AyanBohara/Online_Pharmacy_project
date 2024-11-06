@@ -3,15 +3,15 @@
 1.Clone it or download zip
 
 ### Setup
-Run Xampp
-Open browser type:http://localhost/phpmyadmin/
-Give database name as: online_pharmacy and create
-Click on import and Click on choose file and then open project folder and then open database folder
+2.Run Xampp
+3.Open browser type:http://localhost/phpmyadmin/
+4.Give database name as: online_pharmacy and create
+5.Click on import and Click on choose file and then open project folder and then open database folder
 
 ### After openning database folder
-Simply add online_pharmacy.sql
+6.Simply add online_pharmacy.sql
 and you are ready to open project
 
 ### Type in browser
-localhost/project/login-register.php
+7.localhost/project/login-register.php
 and explore it
